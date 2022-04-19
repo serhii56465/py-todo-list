@@ -21,7 +21,7 @@ should have:
    - Tag list page
     the sidebar should be on all pages.
 2. Todo list which is a list of tasks. 
-   - Tasks should be ordered from newest to oldest
+   - Tasks should be ordered from `not done` to `done` and from newest to oldest
    - All task information should be displayed. 
    - There should be a button to add a new task. 
    - For each task add links for updating and deletion. 
@@ -30,14 +30,17 @@ done, this button changes the status of the task to the opposite and redirects
 to this page.
 
 The home page should look like this: 
-![](https://user-images.githubusercontent.com/80070761/164017081-59477a96-9030-420d-a36d-5e700bd0c589.png)
+![](https://user-images.githubusercontent.com/80070761/164025072-4aaae315-07be-472b-8456-3d5a0f1eaebb.png)
 
 Create a tag list page. A tag list page is accessed by `127.0.0.1:8000/tags/`, 
 there you should have:
 1. Table with tags names, links for updating,  and deletion.
 2. Button to add a new tag.
 
+Of course, pages for adding tags and tasks must be also implemented.
+
 A tag list page should look like this:
 ![](https://user-images.githubusercontent.com/80070761/164017040-c76f5094-9e2d-4cc7-ad8d-8bfd776b6aca.png)
 
+## IMPORTANT! Attach images of your interface (all pages) to the Pull Request for this task
 That's all!
