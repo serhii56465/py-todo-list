@@ -1,4 +1,4 @@
-# py-todo-list
+# Todo list
 
 In this exam project, you have to implement a todo list site.
 
