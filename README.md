@@ -30,6 +30,7 @@ done, this button changes the status of the task to the opposite and redirects
 to this page.
 
 The home page should look like this: 
+![](https://user-images.githubusercontent.com/80070761/164017081-59477a96-9030-420d-a36d-5e700bd0c589.png)
 
 Create a tag list page. A tag list page is accessed by `127.0.0.1:8000/tags/`, 
 there you should have:
@@ -37,5 +38,6 @@ there you should have:
 2. Button to add a new tag.
 
 A tag list page should look like this:
+![](https://user-images.githubusercontent.com/80070761/164017040-c76f5094-9e2d-4cc7-ad8d-8bfd776b6aca.png)
 
 That's all!
