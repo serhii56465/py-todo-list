@@ -25,12 +25,12 @@ should have:
    - All task information should be displayed. 
    - There should be a button to add a new task. 
    - For each task add links for updating and deletion. 
-   - Also, add a button `Done` if a task is not done and `Not done` if a task is 
+   - Also, add a button `Complete` if a task is not done and `Undo` if a task is 
 done, this button changes the status of the task to the opposite and redirects 
 to this page.
 
 The home page should look like this: 
-![](https://user-images.githubusercontent.com/80070761/164025072-4aaae315-07be-472b-8456-3d5a0f1eaebb.png)
+![](https://user-images.githubusercontent.com/80070761/164036540-0b763a20-8fe5-4836-a68e-1a854532086d.png)
 
 Create a tag list page. A tag list page is accessed by `127.0.0.1:8000/tags/`, 
 there you should have:
